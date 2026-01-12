@@ -1,0 +1,39 @@
+{
+    "camera_index": 0,
+    "window_width": 1280,
+    "window_height": 720,
+    "display_width": 1600,
+    "display_height": 900,
+    "can_hsv_lower": [
+        76,
+        0,
+        0
+    ],
+    "can_hsv_upper": [
+        180,
+        40,
+        230
+    ],
+    "min_can_area": 125,
+    "max_can_area": 9988,
+    "min_aspect_ratio": 1.25,
+    "max_aspect_ratio": 8.0,
+    "min_fill_pct": 0,
+    "dark_thresh": 255,
+    "min_dark_pct": 27,
+    "canny1": 153,
+    "canny2": 147,
+    "min_edge_pct": 12,
+    "kernel_size": 3,
+    "dilate_iter": 1,
+    "sip_distance_threshold": 150,
+    "sip_cooldown": 3.0,
+    "mouth_open_threshold": 0.02,
+    "video_path": "assets/flex_video.mp4",
+    "video_duration": 3.0,
+    "debug_mode": true,
+    "show_hsv_mask": false,
+    "bbox_smoothing_alpha": 0.25,
+    "can_confirm_frames": 2,
+    "can_miss_tolerance": 10
+}
