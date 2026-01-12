@@ -10,6 +10,11 @@
 
 ## The Idea
 
+<img width="721" height="1292" alt="image" src="https://github.com/user-attachments/assets/ed1b0d95-5c58-4479-82e8-366bcf9c1aa7" />  
+<img width="718" height="543" alt="image" src="https://github.com/user-attachments/assets/14ec791b-6882-413a-b18c-de1b2aa051cd" />
+
+
+
 I've been getting into color grading while editing videos lately, and spending hours in HSV/HSL color wheels made me realize something: if I can isolate specific colors frame-by-frame for creative edits, why not use the same principles for object detection?
 
 Everyone reaches for YOLO or pre-trained models these days (myself included), but I wanted to see how far traditional computer vision techniques could go. Could I detect a specific object, like the white Monster can I drink while coding, using nothing but color math and clever filtering?
